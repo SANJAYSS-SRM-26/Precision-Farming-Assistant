@@ -108,7 +108,7 @@ Additionally, the system identifies **barren or underutilized land** and suggest
 
 ### API Info
 
-Get your API Key from the platform and input into env variable for this code and run the project 
+Gather API Key from platforms and run the system
 
 ---
 
