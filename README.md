@@ -1,8 +1,8 @@
-# AgroVision
+# Precision Farming Assistant
 ## Project Description
-AgroVision: Precision Farming Insights using AI is a geospatial crop recommendation system that leverages satellite imagery, soil data, and weather data to suggest the most suitable crop for any given geographical location. The system is designed to aid farmers and agricultural planners in optimizing land usage, improving crop yield, and reducing the overuse of water and fertilizers.
+PFA : Precision Farming Insights using AI is a geospatial crop recommendation system that leverages satellite imagery, soil data, and weather data to suggest the most suitable crop for any given geographical location. The system is designed to aid farmers and agricultural planners in optimizing land usage, improving crop yield, and reducing the overuse of water and fertilizers.
 
-AgroVision integrates and processes multi-dimensional environmental data from globally available sources and uses a machine learning model to deliver accurate, location-specific crop recommendations. It also identifies barren or underutilized land and suggests rehabilitation strategies, making it scalable and applicable across diverse agro-ecological zones.
+System integrates and processes multi-dimensional environmental data from globally available sources and uses a machine learning model to deliver accurate, location-specific crop recommendations. It also identifies barren or underutilized land and suggests rehabilitation strategies, making it scalable and applicable across diverse agro-ecological zones.
 
 ## How it works
 ###### User Input: 
@@ -24,7 +24,6 @@ Rehabilitation advice for barren or low-NDVI areas.
 ## Tech Stack
 ###### Frontend: 
 HTML, CSS, JavaScript  
-Hosted on: Vercel
 
 ###### Backend: 
 Python (Flask)  
