@@ -68,7 +68,7 @@ Additionally, the system identifies **barren or underutilized land** and suggest
 
 ## System Design
 
-![System Architecture](./assets/architecture.png)
+![System Architecture](https://github.com/SANJAYSS-SRM-26/Precision-Farming-Assistant/blob/main/system%20flow.png)
 
 ---
 
