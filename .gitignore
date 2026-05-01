@@ -1,0 +1,27 @@
+# Environments
+.env
+.env.*
+!.env.example
+
+# Google Cloud Service Account Key
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!.eslintrc.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.pkl
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+.vercel
